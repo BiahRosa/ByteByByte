@@ -1,11 +1,48 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Byte</title>
+    <link rel="stylesheet" href="styles.css">
+    <title>Byte por Byte</title>
+
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        body{
+            background-image: url("img/Foto\ código.png");
+            background-size: cover;
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+
 </head>
+
 <body>
+    <header>
+        <h1>Byte por Byte: Seu Dicionário de Programação</h1>
+        <h2>Desvendando os mistérios do código sem precisar ser um mago da computação</h2>
+    </header>
+    <main>
+        <section>
+        <input type="text" placeholder="Digite o termo técnico" id="campo-pesquisa">
+        <button onclick="pesquisar()">Pesquisar</button>
+        </section>
+        <section class="resultados-pesquisa"
+        id="resultados-pesquisa">
+        </section>
+    </main>
+    <footer>
+        <p>2024 - Significados com um toque de humor . Todos os direitos reservados</p>
+        <p> Entre em contato pelo email: bytensina@gmail.com.br</p>
+    </footer>
     
+    <script src="dados.js"></script> <!--dados-->
+    <script src="app.js"></script> <!--lógica-->
+
 </body>
 </html>
