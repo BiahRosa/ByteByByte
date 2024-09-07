@@ -9,7 +9,7 @@ let dados = [{
     utilizacao: "O Scrum é amplamente utilizado em equipes de desenvolvimento de software para promover a colaboração, a flexibilidade e a entrega contínua de valor.",
     exemplos: "Exemplo: Uma equipe Scrum realiza uma reunião diária chamada 'Daily Scrum' para sincronizar o trabalho.",
     piada: "Joke: Qual a diferença entre um Scrum Master e um mágico? O mágico tira um coelho da cartola, e o Scrum Master tira um produto funcionando do backlog!",
-    linkInfo: "https://pt.wikipedia.org/wiki/Scrum",
+    linkInfo: "https://www.scrum.org/resources/what-scrum-module",
     tags: ""
 },
     {
@@ -27,8 +27,8 @@ let dados = [{
         utilizacao: "Utilizado para identificar padrões, fazer previsões, tomar decisões mais precisas e otimizar processos em diversas áreas, como marketing, saúde, finanças e governo.",
         exemplos: "Exemplo: Uma rede social como o Facebook coleta uma enorme quantidade de dados sobre seus usuários, como publicações, curtidas e comentários. Analisando esses dados, o Facebook pode entender o comportamento dos usuários e oferecer anúncios mais relevantes.",
         piada: "Joke: O que um cientista de dados faz quando encontra um grande volume de dados? Faz uma festa de dados!",
-        linkInfo: "https://www.ibm.com/br-pt/topics/big-data",
-        tags: ""
+        linkInfo: "https://www.oracle.com/br/big-data/what-is-big-data/",
+        tags: "arquivos"
       },
       {
         palavra: "DevOps",
@@ -36,7 +36,7 @@ let dados = [{
         utilizacao: "Utilizado para automatizar processos, melhorar a colaboração entre equipes, aumentar a frequência de lançamentos e garantir a estabilidade dos sistemas.",
         exemplos: "Exemplo: Em vez de esperar semanas ou meses para lançar uma nova versão de um software, as equipes DevOps podem fazer lançamentos menores e mais frequentes, permitindo que os clientes recebam novas funcionalidades mais rapidamente.",
         piada: "Joke: O que um desenvolvedor DevOps faz quando encontra um bug? Corrige ele e depois automatiza a correção para que nunca mais aconteça!",
-        linkInfo: "https://www.devops.com/",
+        linkInfo: "https://aws.amazon.com/pt/devops/what-is-devops/",
         tags: ""
       },
       {
@@ -45,7 +45,7 @@ let dados = [{
         utilizacao: "Utilizada para automatizar processos, monitorar ambientes, coletar dados e criar serviços inteligentes em diversos setores, como indústria, agricultura, saúde e casa inteligente.",
         exemplos: "Exemplo: Uma geladeira inteligente que monitora seus alimentos, avisa quando algo está para vencer e até mesmo sugere receitas com base nos ingredientes disponíveis.",
         piada: "Joke: O que uma tomada inteligente disse para a lâmpada? 'Acenda, acenda, a casa inteira está te observando!'",
-        linkInfo: "https://www.ibm.com/br-pt/topics/internet-of-things",
+        linkInfo: "https://www.oracle.com/br/internet-of-things/",
         tags: ""
       }
 ];
