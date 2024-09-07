@@ -1,6 +1,7 @@
 # Byte por Byte: Desvendando os Mistérios da Programação 🧙‍♂️
 
-![Logo do Byte por Byte](![image](https://github.com/user-attachments/assets/277662ef-cf59-412d-ac26-feae38b227e6))
+![Logo do Byte por Byte](![me](https://github.com/user-attachments/assets/f1d3a74b-e682-47c3-bc6e-5ff635666963)
+)
 
 **Um dicionário de programação divertido e fácil de usar!**
 
