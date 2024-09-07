@@ -31,6 +31,9 @@ Byte por Byte é o seu companheiro de jornada no mundo da programação. Quer sa
 
 **Contribuidores:**
 * Beatriz Silva Rosa
-* Alura e Google Gemini 
+* Alura e Google Gemini
+
+**Link para a imagem**
+![link para o mago](https://i.pinimg.com/736x/5a/1d/53/5a1d53179b7309b5cb27bcc37abbf12c.jpg)
 
 **Vamos juntos desvendar os mistérios da programação!**
