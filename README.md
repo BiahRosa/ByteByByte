@@ -1,6 +1,6 @@
 # Byte por Byte: Desvendando os Mistérios da Programação 🧙‍♂️
 
-![Logo do Byte por Byte](![me](https://github.com/user-attachments/assets/f1d3a74b-e682-47c3-bc6e-5ff635666963)
+![Logo do Byte por Byte](C:\Users\Bia\Documents\CURSOS\Imersão DEV com Google Gemini - Alura - 06.09.2024\ByteByByte\img)
 )
 
 **Um dicionário de programação divertido e fácil de usar!**
