@@ -1,4 +1,4 @@
-**# Byte por Byte: Desvendando os Mistérios da Programação**🧙‍♂️
+# Byte por Byte: Desvendando os Mistérios da Programação🧙‍♂️
 
 ![Logo do Byte por Byte](img/me.jpeg)
 
